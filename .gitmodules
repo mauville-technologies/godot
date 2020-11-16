@@ -1,0 +1,3 @@
+[submodule "modules/godot_dragonbones"]
+	path = modules/godot_dragonbones
+	url = https://github.com/mauville-technologies/godot_dragonbones
