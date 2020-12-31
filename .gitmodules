@@ -1,0 +1,3 @@
+[submodule "modules/GEMS"]
+	path = modules/GEMS
+	url = git@github.com:mauville-technologies/GEMS.git

@@ -263,6 +263,7 @@ def configure_msvc(env, manual_msvc_config):
         "bcrypt",
         "Avrt",
         "dwmapi",
+        "dxgi"
     ]
     env.Append(LINKFLAGS=[p + env["LIBSUFFIX"] for p in LIBS])
 
